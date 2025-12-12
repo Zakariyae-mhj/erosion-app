@@ -139,7 +139,7 @@ if None in required_images:
 
 # --- الشريط الجانبي (Sidebar) ---
 with st.sidebar:
-    st.image("https://img-cdn.hytera.com/iwov-resources/hytera/02_products/4_banner_image/catagory_satellite_banner.jpg_n.webp", width=160) # أيقونة جغرافية
+    st.image("https://img-cdn.hytera.com/iwov-resources/hytera/02_products/4_banner_image/catagory_satellite_banner.jpg_n.webp", width=200) # أيقونة جغرافية
     st.title("نظام مراقبة التعرية 🛰️")
     st.subheader("حوض ملوية الوسطى - المغرب")
     st.markdown("---")
@@ -307,6 +307,7 @@ st.markdown("""
     <p>© 2025 - المحجوبي زكرياء، مختبر دينامية الأوساط الجافة والتهيئة الجهوية</p>
 </div>
 """, unsafe_allow_html=True)
+
 
 
 
